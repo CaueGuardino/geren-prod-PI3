@@ -10,6 +10,6 @@ package br.senac.tads.pi3.geren.prod;
  */
 public class gerenProd {
     public static void main(String[] args) {
-        System.out.println("Teste Maven");
+        System.out.println("Teste Mavens");
     }
 }
